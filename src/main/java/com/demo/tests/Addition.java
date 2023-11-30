@@ -7,6 +7,7 @@ public class Addition {
 		int y = 20;
 		int add = 10+20;
 		System.out.println("Addition of two numbers is:"+ add);
+		//addition test 
 	}
 	
 }
